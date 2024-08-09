@@ -1,6 +1,11 @@
 # Voice-Application
 Using Pyttsx3 &amp; tkinter
-#Documentation and README for Voice Assistant Application
+
+
+
+
+
+Documentation and README for Voice Assistant Application
 Voice Assistant Application
 Overview
 The Voice Assistant Application is a Python-based desktop application that integrates voice recognition and text-to-speech functionality into a graphical user interface (GUI). The application uses the speech_recognition library for capturing and converting voice commands into text, pyttsx3 for text-to-speech, and tkinter for the graphical interface.
